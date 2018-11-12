@@ -1,0 +1,6 @@
+Added new Struct "Quest"
+Added Quest Array Variable "Quests" to ThirdPersonCharacter
+Added Function "Complete Quest" with an int for index overload to ThirdPersonCharacter
+
+Added int Variable "ID" to Pickup_Relic
+Added to Event Picked Up in Pickup_Relic
