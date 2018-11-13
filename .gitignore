@@ -77,3 +77,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Content/Character/Blueprints/ThirdPersonCharacter.uasset
 Content/liz/Island_2.umap
+*.umap
