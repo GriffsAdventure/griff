@@ -76,3 +76,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Content/Character/Blueprints/ThirdPersonCharacter.uasset
+Content/liz/Island_2.umap
